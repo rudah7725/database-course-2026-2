@@ -577,7 +577,7 @@ ON DELETE RESTRICT
 
 # 13. 제출 체크리스트
 
-- [ ] `chapter06_answer.md`를 본인 저장소에 만들었다.
+- [x] `chapter06_answer.md`를 본인 저장소에 만들었다.
 - [x] 위험한 중복과 의미 있는 반복을 구분했다.
 - [x] 삽입·수정·삭제 이상을 설명했다.
 - [x] 1NF·2NF·3NF 핵심 질문을 자신의 말로 설명했다.
@@ -595,8 +595,8 @@ ON DELETE RESTRICT
 - [x] AI 제안을 요구사항 근거와 실행 결과로 검토했다.
 - [x] 핵심 화면 3~4장만 첨부했다.
 - [x] 캡처에 비밀번호나 개인정보가 없다.
-- [ ] GitHub에서 Markdown 이미지가 정상적으로 보인다.
-- [ ] 최종 답안을 commit/push했다.
+- [x] GitHub에서 Markdown 이미지가 정상적으로 보인다.
+- [x] 최종 답안을 commit/push했다.
 
 ---
 
