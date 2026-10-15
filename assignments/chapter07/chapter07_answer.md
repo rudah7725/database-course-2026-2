@@ -748,27 +748,27 @@ MQ09 할인 종류, 할인 금액이 판매 금액을 넘지 못하게 막을지
 
 # 16. 제출 체크리스트
 
-- [ ] `chapter07_answer.md`를 본인 저장소에 만들었다.
-- [ ] 시작 환경과 현재 DB를 확인했다.
-- [ ] 프로젝트 포함/제외 범위를 설명했다.
-- [ ] 요구사항/결정/미확정 질문을 구분했다.
-- [ ] 네 테이블의 한 행 의미와 관계를 설명했다.
-- [ ] `01_course_project_schema.sql`을 실행하고 결과를 확인했다.
-- [ ] `02_course_project_seed.sql`의 기준 상태를 확인했다.
-- [ ] `03_course_project_changes.sql` 전후 상태를 비교했다.
-- [ ] `04_course_project_validation.sql` PASS를 확인했다.
-- [ ] 허용 경계값 1개 이상을 확인했다.
-- [ ] 실패 테스트 2개 이상을 한 구간씩 실행했다.
-- [ ] 실패 후 validation을 다시 실행했다.
-- [ ] 개인 프로젝트 요구사항 8개 이상을 작성했다.
-- [ ] 프로젝트 결정 3개 이상과 미확정 질문 3개 이상을 작성했다.
-- [ ] 개인 프로젝트 ERD를 작성했다.
-- [ ] 검증 가능한 완료 기준 6개 이상을 작성했다.
-- [ ] AI 제안을 수용/수정/보류/거절로 구분했다.
-- [ ] 핵심 캡처는 3~4장 정도로 정리했다.
-- [ ] 캡처에 비밀번호나 개인정보가 없다.
-- [ ] GitHub 웹에서 Markdown과 이미지가 정상적으로 보인다.
-- [ ] 최종 파일을 commit/push했다.
+- [x] `chapter07_answer.md`를 본인 저장소에 만들었다.
+- [x] 시작 환경과 현재 DB를 확인했다.
+- [x] 프로젝트 포함/제외 범위를 설명했다.
+- [x] 요구사항/결정/미확정 질문을 구분했다.
+- [x] 네 테이블의 한 행 의미와 관계를 설명했다.
+- [x] `01_course_project_schema.sql`을 실행하고 결과를 확인했다.
+- [x] `02_course_project_seed.sql`의 기준 상태를 확인했다.
+- [x] `03_course_project_changes.sql` 전후 상태를 비교했다.
+- [x] `04_course_project_validation.sql` PASS를 확인했다.
+- [x] 허용 경계값 1개 이상을 확인했다.
+- [x] 실패 테스트 2개 이상을 한 구간씩 실행했다.
+- [x] 실패 후 validation을 다시 실행했다.
+- [x] 개인 프로젝트 요구사항 8개 이상을 작성했다.
+- [x] 프로젝트 결정 3개 이상과 미확정 질문 3개 이상을 작성했다.
+- [x] 개인 프로젝트 ERD를 작성했다.
+- [x] 검증 가능한 완료 기준 6개 이상을 작성했다.
+- [x] AI 제안을 수용/수정/보류/거절로 구분했다.
+- [x] 핵심 캡처는 3~4장 정도로 정리했다.
+- [x] 캡처에 비밀번호나 개인정보가 없다.
+- [x] GitHub 웹에서 Markdown과 이미지가 정상적으로 보인다.
+- [x] 최종 파일을 commit/push했다.
 
 ---
 
@@ -783,7 +783,7 @@ https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/c
 내 제출 URL:
 
 ```text
-
+https://github.com/rudah7725/database-course-2026-2/blob/main/assignments/chapter07/chapter07_answer.md
 ```
 
 > 저장소 메인 URL, 교수자 템플릿 URL, Raw URL이 아니라 **작성 완료된 본인 `chapter07_answer.md` 파일 화면 URL**을 제출합니다.
